@@ -1,6 +1,19 @@
 <div class="widget">
-    <h3 class="widget-title line-bottom"><img class="mr-10" src="imagenes/ico-industria.png" alt="Industrial">Línea Industrial</h3>
     <div class="services-list">
+
+    <h3 id="cat_arq" class="widget-title line-bottom"><img class="mr-10" src="imagenes/ico-arquitectonica.png" alt="arquitectonica">Línea Arquitectónica</h3>
+        <ul class="nav nav-pills nav-stacked nav-sidebar">
+            <li class="<?php active('ficha-producto.php?id_product=17&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=17&category=2"><i class="fa fa-bank"></i> Panel Cn-SuperCuadro</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=18&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=18&category=2"><i class="fa fa-bank"></i> Panel Cn Cuadro</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=19&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=19&category=2"><i class="fa fa-bank"></i> Panel Perforado</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=20&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=20&category=2"><i class="fa fa-bank"></i> Panel Cn Wave</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=21&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=21&category=2"><i class="fa fa-bank"></i> Panel Cn-20</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=22&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=22&category=2"><i class="fa fa-bank"></i> Panel Cn-B2</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=23&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=23&category=2"><i class="fa fa-bank"></i> Celosia Cn-23</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=24&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=24&category=2"><i class="fa fa-bank"></i> Celosia Cn-40</a></li>
+        </ul>
+
+    <h3 class="widget-title line-bottom mt-30"><img class="mr-10" src="imagenes/ico-industria.png" alt="Industrial">Línea Industrial</h3>
         <ul class="nav nav-pills nav-stacked nav-sidebar">
             <li class="<?php active('ficha-producto.php?id_product=1&category=1');?> bg-industry"><a href="ficha-producto.php?id_product=1&category=1"><i class="fa fa-industry"></i> Panel Cn-4</a></li>
             <li class="<?php active('ficha-producto.php?id_product=2&category=1');?> bg-industry"><a href="ficha-producto.php?id_product=2&category=1"><i class="fa fa-industry"></i> Panel Cn-6</a></li>
@@ -18,18 +31,6 @@
             <li class="<?php active('ficha-producto.php?id_product=14&category=1');?> bg-industry"><a href="ficha-producto.php?id_product=14&category=1"><i class="fa fa-industry"></i> Panel Aislado Cn-Pol</a></li>
             <li class="<?php active('ficha-producto.php?id_product=15&category=1');?> bg-industry"><a href="ficha-producto.php?id_product=15&category=1"><i class="fa fa-industry"></i> Panel Cn-4 Pur</a></li>
             <li class="<?php active('ficha-producto.php?id_product=16&category=1');?> bg-industry"><a href="ficha-producto.php?id_product=16&category=1"><i class="fa fa-industry"></i> Insumos</a></li>
-        </ul>
-
-    <h3 class="widget-title line-bottom mt-30"><img class="mr-10" src="imagenes/ico-arquitectonica.png" alt="arquitectonica">Línea Arquitectónica</h3>
-        <ul class="nav nav-pills nav-stacked nav-sidebar">
-            <li class="<?php active('ficha-producto.php?id_product=17&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=17&category=2"><i class="fa fa-bank"></i> Panel Cn-SuperCuadro</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=18&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=18&category=2"><i class="fa fa-bank"></i> Panel Cn Cuadro</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=19&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=19&category=2"><i class="fa fa-bank"></i> Panel Perforado</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=20&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=20&category=2"><i class="fa fa-bank"></i> Panel Cn Wave</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=21&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=21&category=2"><i class="fa fa-bank"></i> Panel Cn-20</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=22&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=22&category=2"><i class="fa fa-bank"></i> Panel Cn-B2</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=23&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=23&category=2"><i class="fa fa-bank"></i> Celosia Cn-23</a></li>
-            <li class="<?php active('ficha-producto.php?id_product=24&category=2');?> bg-arq"><a href="ficha-producto.php?id_product=24&category=2"><i class="fa fa-bank"></i> Celosia Cn-40</a></li>
         </ul>
 
     <h3 class="widget-title line-bottom mt-30"><img class="mr-10" src="imagenes/ico-habitacional.png" alt="habitacional">Línea Habitacional</h3>

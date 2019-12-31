@@ -214,7 +214,7 @@
                     <div class="media-body">
                       <h3 class="heading text-white mt-0">Línea Industrial</h3>
                       <p class="text-white">Poseen Terminaciones con recubrimiento especial, para un menor desgaste.</p>
-                      <a href="Productos.html" class="btn btn-md btn-sm btn-default mt-10 no-border">Ver Productos</a>
+                      <a href="ficha-producto.php?id_product=17&category=2" class="btn btn-md btn-sm btn-default mt-10 no-border">Ver Productos</a>
                     </div>
                   </div>
                 </div>
@@ -225,7 +225,7 @@
                     <div class="media-body">
                       <h3 class="heading text-white mt-0">Línea Arquitectónica</h3>
                       <p class="text-white">Productos especializados para otorgar una serie de diseños para uso decorativo.</p>
-                      <a href="Productos.html" class="btn btn-md btn-sm btn-default mt-10 no-border">Ver Productos</a>
+                      <a href="ficha-producto.php?id_product=17&category=2" class="btn btn-md btn-sm btn-default mt-10 no-border">Ver Productos</a>
                     </div>
                   </div>
                 </div>
@@ -236,7 +236,7 @@
                     <div class="media-body">
                       <h3 class="heading text-white mt-0">Línea Habitacional</h3>
                       <p class="text-white">Proveemos de Cubiertas especializadas para fines constructivos de Hogar.</p>
-                      <a href="Productos.html" class="btn btn-md btn-sm btn-default mt-10 no-border">Ver Productos</a>
+                      <a href="ficha-producto.php?id_product=17&category=2" class="btn btn-md btn-sm btn-default mt-10 no-border">Ver Productos</a>
                     </div>
                   </div>
                 </div>
@@ -439,7 +439,7 @@
                   <!-- Portfolio Item End -->
 
                   <!-- Portfolio Item Start -->
-                  <div class="gallery-item procesos">
+                  <!-- <div class="gallery-item procesos">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal4.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -454,11 +454,11 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                   <!-- Portfolio Item End -->
 
                   <!-- Portfolio Item Start -->
-                  <div class="gallery-item procesos">
+                  <!-- <div class="gallery-item procesos">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal5.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -473,7 +473,7 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
                   <!-- Portfolio Item End -->
 
                   <!-- Portfolio Item Start -->
@@ -515,7 +515,7 @@
                   <!-- Portfolio Item End -->
 
                   <!-- Portfolio Item Start -->
-                  <div class="gallery-item procesos">
+                  <!-- <div class="gallery-item procesos">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal8.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -530,7 +530,7 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
 
 
                   <div class="gallery-item procesos">
@@ -569,7 +569,7 @@
                     </div>
                   </div>
 
-                  <div class="gallery-item empresa">
+                  <!-- <div class="gallery-item empresa">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal11.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -584,9 +584,9 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
 
-                  <div class="gallery-item plantas">
+                  <!-- <div class="gallery-item plantas">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal12.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -601,7 +601,7 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
 
 
                   <div class="gallery-item plantas">
@@ -621,7 +621,7 @@
                     </div>
                   </div>
 
-                  <div class="gallery-item equipo">
+                  <!-- <div class="gallery-item equipo">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal14.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -636,9 +636,9 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
 
-                  <div class="gallery-item equipo">
+                  <!-- <div class="gallery-item equipo">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal15.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -653,15 +653,15 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
 
 
-                  <div class="gallery-item photography">
+                  <div class="gallery-item procesos">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal16.jpg" alt="project">
                       <div class="overlay-shade"></div>
                       <div class="gallery-new">
-                        <h4 class="text-white">Nuestro Equipo</h4>
+                        <h4 class="text-white">Procesos - Fabricación</h4>
                       </div>
                       <div class="icons-holder">
                         <div class="icons-holder-inner">
@@ -712,7 +712,7 @@
                   </div>
 
 
-                  <div class="gallery-item equipo">
+                  <!-- <div class="gallery-item equipo">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal19.jpg" alt="project">
                       <div class="overlay-shade"></div>
@@ -727,7 +727,8 @@
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> -->
+
                   <div class="gallery-item equipo">
                     <div class="thumb">
                       <img class="img-fullwidth" src="imagenes/gal_in/gal20.jpg" alt="project">

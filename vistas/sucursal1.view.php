@@ -59,14 +59,6 @@
           <div class="col-md-6">
             <h3 class="line-bottom mt-0">Contáctanos</h3>
             <p>Empresa profesional con los más altos estándares en producción de techos y cubiertas.</p>
-            <ul class="styled-icons icon-dark icon-sm icon-circled mb-20">
-              <li><a href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
-   
-              <li><a href="#" data-bg-color="#D9CCB9"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="#" data-bg-color="#D71619"><i class="fa fa-google-plus"></i></a></li>
-
-            </ul>
 
             <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-20" href="#"> <i class="pe-7s-map-2 text-theme-colored"></i></a>
               <div class="media-body">

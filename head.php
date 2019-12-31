@@ -1,5 +1,7 @@
 <!-- /* 
-Creado por Jesús Caballero by @uebeats in Github
+  Modificado por Jesús Caballero by @uebeats in Github
+  @TeamIgospelChile
+  Diseño Web - Impresión Digital
 */ -->
 
 <!-- Meta Tags -->

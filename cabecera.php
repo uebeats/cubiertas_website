@@ -15,7 +15,7 @@
                   </div>
                   <div class="media-body">
                     <a href="mailto:info@cubiertasnacionales.cl" class="title">Email</a>
-                    <h5 class="media-heading subtitle">info@cubiertasnacionales.cl</h5>
+                    <h5 class="media-heading subtitle">aortiz@cubiertasnacionales.cl</h5>
                   </div>
                 </div>
                 <div class="media element contact-info">
@@ -59,8 +59,21 @@
 
                 </li>
 
-                <li class="<?php echo $current_products;?>"><a href="productos.php">Productos</a>
+                <li class="<?php echo $current_products;?>"><a href="#">Productos</a>
                   <ul class="dropdown">
+
+                    <li><a href="#">Línea Arquitectónica</a>
+                      <ul class="dropdown">
+                        <li><a href="ficha-producto.php?id_product=17&category=2"><i class="fa fa-bank"></i> Panel Cn SuperCuadro</a></li>
+                        <li><a href="ficha-producto.php?id_product=18&category=2"><i class="fa fa-bank"></i> Panel Cn Cuadro</a></li>
+                        <li><a href="ficha-producto.php?id_product=19&category=2"><i class="fa fa-bank"></i> Panel Perforado</a></li>
+                        <li><a href="ficha-producto.php?id_product=20&category=2"><i class="fa fa-bank"></i> Panel Cn Wave</a></li>
+                        <li><a href="ficha-producto.php?id_product=21&category=2"><i class="fa fa-bank"></i> Panel Cn-20</a></li>
+                        <li><a href="ficha-producto.php?id_product=22&category=2"><i class="fa fa-bank"></i> Panel Cn-B2</a></li>
+                        <li><a href="ficha-producto.php?id_product=23&category=2"><i class="fa fa-bank"></i> Celosia Cn-23</a></li>
+                        <li><a href="ficha-producto.php?id_product=24&category=2"><i class="fa fa-bank"></i> Celosia Cn-40</a></li>
+                      </ul>
+                    </li>
 
                     <li><a href="#">Línea Industrial</a>
                       <ul class="dropdown">
@@ -82,18 +95,7 @@
                         <li><a href="ficha-producto.php?id_product=16&category=1"><i class="fa fa-industry"></i> Insumos</a></li>
                       </ul>
                     </li>
-                    <li><a href="#">Línea Arquitectónica</a>
-                      <ul class="dropdown">
-                        <li><a href="ficha-producto.php?id_product=17&category=2"><i class="fa fa-bank"></i> Panel Cn SuperCuadro</a></li>
-                        <li><a href="ficha-producto.php?id_product=18&category=2"><i class="fa fa-bank"></i> Panel Cn Cuadro</a></li>
-                        <li><a href="ficha-producto.php?id_product=19&category=2"><i class="fa fa-bank"></i> Panel Perforado</a></li>
-                        <li><a href="ficha-producto.php?id_product=20&category=2"><i class="fa fa-bank"></i> Panel Cn Wave</a></li>
-                        <li><a href="ficha-producto.php?id_product=21&category=2"><i class="fa fa-bank"></i> Panel Cn-20</a></li>
-                        <li><a href="ficha-producto.php?id_product=22&category=2"><i class="fa fa-bank"></i> Panel Cn-B2</a></li>
-                        <li><a href="ficha-producto.php?id_product=23&category=2"><i class="fa fa-bank"></i> Celosia Cn-23</a></li>
-                        <li><a href="ficha-producto.php?id_product=24&category=2"><i class="fa fa-bank"></i> Celosia Cn-40</a></li>
-                      </ul>
-                    </li>
+
 
                     <li><a href="#">Línea Habitacional</a>
                       <ul class="dropdown">
@@ -135,15 +137,12 @@
                         </article>
                       </div>
 
-
-
                       <div class="col3">
                         <h4 class="megamenu-col-title">Direcciones:</h4>
                         <ul class="list-dashed list-icon">
                           <li><a href="casa-matriz.php">Casa Matriz Av. La Montaña - Santiago</a></li>
-                          <li><a href="sucursal1.php">Sucursal Av. Egaña - Santiago</a></li>
                           <li><a href="sucursal2.php">Sucursal Coronel - Región del Bío Bío</a></li>
-
+                          <li><a href="sucursal1.php">Sucursal Av. Egaña - Santiago</a></li>
                         </ul>
                       </div>
                     </div>

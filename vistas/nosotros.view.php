@@ -3,6 +3,66 @@
 
 <head>
     <?php include 'head.php'; ?>
+    <style>
+        .col-xs-5,
+
+        .col-sm-5,
+
+        .col-md-5,
+
+        .col-lg-5 {
+
+            min-height: 1px;
+
+            position: relative;
+
+        }
+
+        .col-xs-5 {
+
+            float: left;
+
+            width: 20%;
+
+        }
+
+
+        @media (min-width: 768px) {
+
+            .col-sm-5 {
+
+                float: left;
+
+                width: 20%;
+
+            }
+
+        }
+
+        @media (min-width: 992px) {
+
+            .col-md-5 {
+
+                float: left;
+
+                width: 20%;
+
+            }
+
+        }
+
+        @media (min-width: 1200px) {
+
+            .col-lg-5 {
+
+                float: left;
+
+                width: 20%;
+
+            }
+
+        }
+    </style>
 </head>
 
 <body>
@@ -70,7 +130,7 @@
 
                                 <div class="section-content mt-4">
                                     <div class="row">
-                                        <div class="col-xs-12 col-sm-4 col-md-6">   
+                                        <div class="col-xs-12 col-sm-4 col-md-6">
                                             <p class="mt-15">Desde 1986 que estamos trabajando e innovando para ser parte importante en el logro de sus proyectos. Con el paso del tiempo hemos seguido desarrollando nuevos productos e invirtiendo en tecnología la que nos ha permitido destacar y abrir nuevos mercados, siempre logrando los más exigentes estándares de calidad. Seguiremos en esta dirección porque tenemos la certeza que la innovación nos permitirá alcanzar nuevas y mejores alternativas.</p>
                                             <p>Contamos con 3 plantas productivas en Santiago en la Comuna de Lampa y una planta en Coronel Concepción.</p>
 
@@ -88,81 +148,96 @@
                                     </div>
                                 </div>
 
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="row">
-                    <div class="col-xs-12 col-sm-4 col-md-3">
-                        <div class="box-hover-effect effect-barlin mb-xs-30">
-                            <div class="effect-wrapper">
-                                <div class="thumb">
-                                    <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
-                                    <div class="overlay-shade bg-theme-colored-transparent-8"></div>
-                                </div>
-                                <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
-                                    <img src="images/flaticons/2.png">
-                                    <h3>Planta 1 - Lampa</h3>
-                                    <p>Esta dedicada a la fabricación de paneles con Aislación para cubiertas y revestimientos.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4 col-md-3">
-                        <div class="box-hover-effect effect-barlin mb-xs-30">
-                            <div class="effect-wrapper">
-                                <div class="thumb">
-                                    <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
-                                    <div class="overlay-shade bg-theme-colored-transparent-8"></div>
-                                </div>
-                                <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
-                                    <img src="images/flaticons/2.png">
-                                    <h3>Planta 2 - Lampa</h3>
-                                    <p>Esta dedicada a la fabricación de paneles Simples para cubiertas y revestimientos.</p>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-4 col-md-5">
+                            <div class="box-hover-effect effect-barlin mb-xs-30">
+                                <div class="effect-wrapper">
+                                    <div class="thumb">
+                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <div class="overlay-shade bg-theme-colored-transparent-8"></div>
+                                    </div>
+                                    <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
+                                        <img src="images/flaticons/2.png">
+                                        <h3>Planta 1 - Lampa</h3>
+                                        <p>Esta dedicada a la fabricación de paneles con Aislación para cubiertas y revestimientos.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4 col-md-3">
-                        <div class="box-hover-effect effect-barlin mb-xs-30">
-                            <div class="effect-wrapper">
-                                <div class="thumb">
-                                    <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
-                                    <div class="overlay-shade bg-theme-colored-transparent-8"></div>
-                                </div>
-                                <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
-                                    <img src="images/flaticons/2.png">
-                                    <h3>Planta 3 - Lampa</h3>
-                                    <p>Esta dedicada a la fabricación de aislante de poliestireno expandido.</p>
+                        <div class="col-xs-12 col-sm-4 col-md-5">
+                            <div class="box-hover-effect effect-barlin mb-xs-30">
+                                <div class="effect-wrapper">
+                                    <div class="thumb">
+                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <div class="overlay-shade bg-theme-colored-transparent-8"></div>
+                                    </div>
+                                    <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
+                                        <img src="images/flaticons/2.png">
+                                        <h3>Planta 2 - Lampa</h3>
+                                        <p>Esta dedicada a la fabricación de paneles Simples para cubiertas y revestimientos.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4 col-md-3">
-                        <div class="box-hover-effect effect-barlin mb-xs-30">
-                            <div class="effect-wrapper">
-                                <div class="thumb">
-                                    <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
-                                    <div class="overlay-shade bg-theme-colored-transparent-8"></div>
+                        <div class="col-xs-12 col-sm-4 col-md-5">
+                            <div class="box-hover-effect effect-barlin mb-xs-30">
+                                <div class="effect-wrapper">
+                                    <div class="thumb">
+                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <div class="overlay-shade bg-theme-colored-transparent-8"></div>
+                                    </div>
+                                    <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
+                                        <img src="images/flaticons/2.png">
+                                        <h3>Planta 3 - Lampa</h3>
+                                        <p>Esta dedicada a la fabricación de aislante de poliestireno expandido.</p>
+                                    </div>
                                 </div>
-                                <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
-                                    <img src="images/flaticons/2.png">
-                                    <h3>Planta en Coronel - Concepción</h3>
-                                    <p>Planta inaugurada el año 2017, Con una superficie de 12.000 m2, siendo la primera planta de este segmento marcando un hito en la compañía.</p>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-5">
+                            <div class="box-hover-effect effect-barlin mb-xs-30">
+                                <div class="effect-wrapper">
+                                    <div class="thumb">
+                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <div class="overlay-shade bg-theme-colored-transparent-8"></div>
+                                    </div>
+                                    <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
+                                        <img src="images/flaticons/2.png">
+                                        <h3>Planta en Coronel - Concepción</h3>
+                                        <p>Planta inaugurada el año 2017, Con una superficie de 12.000 m2, siendo la primera planta de este segmento marcando un hito en la compañía.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-4 col-md-5">
+                            <div class="box-hover-effect effect-barlin mb-xs-30">
+                                <div class="effect-wrapper">
+                                    <div class="thumb">
+                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <div class="overlay-shade bg-theme-colored-transparent-8"></div>
+                                    </div>
+                                    <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
+                                        <img src="images/flaticons/2.png">
+                                        <h3>Planta Egaña - Santiago</h3>
+                                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium dolorem quis dignissimos et similique.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+            </section>
         </div>
-        </section>
-    </div>
-    <!-- end main-content -->
+        <!-- end main-content -->
 
-    <!-- Footer -->
-    <!-- Footer -->
-    <?php include 'pie.php'; ?>
-    <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+        <!-- Footer -->
+        <!-- Footer -->
+        <?php include 'pie.php'; ?>
+        <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
     </div>
     <!-- end wrapper -->
 

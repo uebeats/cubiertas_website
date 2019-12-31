@@ -56,19 +56,19 @@
                   <div class="media-body">
                     <h5 class="mt-0">Email de Contactos</h5>
                     <p><strong>Carlos Nuñez</strong><br>cnunez@cubiertasnacionales.cl<br>
-					<strong>Francisco Flores</strong><br>fflores@cubiertasnacionales.cl<br>
-					<strong>Patricia Gálvez</strong><br>pgalvez@cubiertasnacionales.cl<br>    
-					<strong>Marcela Ordenes</strong><br>mordenes@cubiertasnacionales.cl<br>  
-					<strong>Rodrigo Hernández</strong><br>rhernandez@cubiertasnacionales.cl<br>
-					<strong>Karen Quezada</strong><br>kquezada@cubiertasnacionales.cl<br>
-					<strong>Miguel Gajardo</strong><br>mgajardo@cubiertasnacionales.cl<br>
-					<strong>Patricia Nuñez</strong><br>pnunez@cubiertasnacionales.cl<br>
-					<strong>Johana Martínez</strong><br>jmartinez@cubiertasnacionales.cl<br>
-					<strong>Andrea Ortiz</strong><br>aortiz@cubiertasnacionales.cl<br>
-					<strong>Freddy Rojas</strong><br>frojas@cubiertasnacionales.cl<br>
-					<strong>Carolina Quezada</strong><br>cquezada@cubiertasnacionales.cl<br>
-					<strong>Danilo Escanilla</strong><br>descanilla@cubiertasnacionales.cl<br>
-					  </p>
+                      <strong>Francisco Flores</strong><br>fflores@cubiertasnacionales.cl<br>
+                      <strong>Patricia Gálvez</strong><br>pgalvez@cubiertasnacionales.cl<br>    
+                      <strong>Marcela Ordenes</strong><br>mordenes@cubiertasnacionales.cl<br>  
+                      <strong>Rodrigo Hernández</strong><br>rhernandez@cubiertasnacionales.cl<br>
+                      <strong>Karen Quezada</strong><br>kquezada@cubiertasnacionales.cl<br>
+                      <strong>Miguel Gajardo</strong><br>mgajardo@cubiertasnacionales.cl<br>
+                      <strong>Patricia Nuñez</strong><br>pnunez@cubiertasnacionales.cl<br>
+                      <strong>Johana Martínez</strong><br>jmartinez@cubiertasnacionales.cl<br>
+                      <strong>Andrea Ortiz</strong><br>aortiz@cubiertasnacionales.cl<br>
+                      <strong>Freddy Rojas</strong><br>frojas@cubiertasnacionales.cl<br>
+                      <strong>Carolina Quezada</strong><br>cquezada@cubiertasnacionales.cl<br>
+                      <strong>Danilo Escanilla</strong><br>descanilla@cubiertasnacionales.cl<br>
+					          </p>
                   </div>
                 </div>
               </div>

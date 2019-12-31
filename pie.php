@@ -23,7 +23,7 @@
               <h4 class="widget-title">Productos</h4>
               <div class="latest-posts">
                 <?php 
-                  require 'cb_config/conexion.php';
+                  require_once 'cb_config/conexion.php';
 
                   $select = "SELECT * FROM tbl_products_cb ORDER BY id_product_cb DESC LIMIT 3";
                   $res = $con->query($select);
@@ -67,20 +67,21 @@
               <h4 class="widget-title">Sucursales</h4>
               <div class="latest-posts">
                 <p>
-                  Av. Egaña 662 - Peñalolen, Santiago.</p>
-                <ul class="list-inline mt-5">
-                  <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="tel:(56) 22 226 63 40">(56) 22 226 63 40</a> </li>
-                  <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="mailto:egonzales@cubiertasnacionales.cl">egonzalez@cubiertasnaciones.cl</a> </li>
+                    Av. Estero La Posada 3551, Coronel - Región del Bío Bío.<p></p>
+                  <ul class="list-inline mt-5">
+                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="tel:(56) 22 963 90 10">(56) 22 963 90 10</a> </li>
+                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="mailto:gmartinez@cubiertasnacionales.cl">jmartinez@cubiertasnaciones.cl</a> </li>
 
-                </ul>
-                <p></p>
-                Av. Estero La Posada 3551, Coronel - Región del Bío Bío.<p></p>
-                <ul class="list-inline mt-5">
-                  <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="tel:(56) 22 963 90 10">(56) 22 963 90 10</a> </li>
-                  <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="mailto:gmartinez@cubiertasnacionales.cl">gmartinez@cubiertasnaciones.cl</a> </li>
+                  </ul>
+                </p>
+                <p>
+                    Av. Egaña 662 - Peñalolen, Santiago.</p>
+                  <ul class="list-inline mt-5">
+                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="tel:(56) 22 226 63 40">(56) 22 226 63 40</a> </li>
+                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="mailto:egonzales@cubiertasnacionales.cl">egonzalez@cubiertasnaciones.cl</a> </li>
 
-                </ul>
-
+                  </ul>
+                </p>
 
               </div>
             </div>
@@ -91,11 +92,11 @@
             <div class="widget dark">
               <h4 class="widget-title">Enlaces</h4>
               <ul class="list-border">
-                <li><a href="Productos.html">Línea Industrial</a></li>
-                <li><a href="Productos.html">Línea Arquitectónica</a></li>
-                <li><a href="Productos.html">Línea Habitacional</a></li>
+                <li><a href="ficha-producto.php?id_product=17&category=2">Línea Industrial</a></li>
+                <li><a href="ficha-producto.php?id_product=17&category=2">Línea Arquitectónica</a></li>
+                <li><a href="ficha-producto.php?id_product=17&category=2">Línea Habitacional</a></li>
 
-                <li><a href="Contacto.html">Contacto</a></li>
+                <li><a href="contacto.php">Contacto</a></li>
 
               </ul>
             </div>
@@ -108,7 +109,7 @@
         <div class="container pt-10 pb-10">
           <div class="row">
             <div class="col-md-12 text-center">
-              <p class="font-13 text-black-777 m-0">CubiertasNacionales.cl &copy;Todos Los Derechos Reservados.</p>
+              <p class="font-13 text-black-777 m-0">&copy; <?php echo date('Y');?> Cubiertas Nacionales - Sitio web optimizado para dispositivos móviles.</p>
             </div>
           </div>
         </div>
