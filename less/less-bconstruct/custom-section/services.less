@@ -1,0 +1,56 @@
+
+/*
+ * services.less 
+ * -----------------------------------------------
+*/
+.services-list .nav-sidebar li {
+	background: @white-f2;
+	a {
+		color: @black;
+		font-size: 16px;
+		padding: 18px;
+		img {
+			opacity: 0;
+		}
+		&:hover img {
+			opacity: 1;
+		}
+		&:hover {
+			-webkit-transition: all 0.5s ease;
+			-moz-transition: all 0.5s ease;
+			-o-transition: all 0.5s ease;
+			transition: all 0.5s ease;
+		}
+	}	
+}
+.nav-pills li.active > a > img, .nav-pills li.active > a:hover img, .nav-pills li.active > a:focus img {
+	opacity: 1;
+}
+.widget ul li {
+	padding-bottom: 0;
+}
+.sidebar {
+	.widget {
+		margin-bottom: 40px;
+		.widget-title {
+			margin-top: 0;
+			margin-bottom: 20px;
+			font-family: @body-font;
+			font-size: 22px;
+			font-weight: @headings-font-weight-h1-h3;
+		}
+	}
+}
+.cons-ofc {
+	height: 30px;
+	float: left;
+}
+.icon-box {
+	.icon {
+		img {
+			top: 8px;
+			position: absolute;
+			left: 10px;
+		}
+	}
+}
