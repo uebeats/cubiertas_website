@@ -157,7 +157,7 @@
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <img class="img-fullwidth" src="imagenes/suc-lampa1.jpg" alt="project">
                                         <div class="overlay-shade bg-theme-colored-transparent-8"></div>
                                     </div>
                                     <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
@@ -173,7 +173,7 @@
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <img class="img-fullwidth" src="imagenes/suc-lampa2.jpg" alt="project">
                                         <div class="overlay-shade bg-theme-colored-transparent-8"></div>
                                     </div>
                                     <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">

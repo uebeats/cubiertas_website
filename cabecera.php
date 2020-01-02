@@ -109,45 +109,9 @@
                   </ul>
                 </li>
 
-                <li><a href="javascript:void(0)">Contacto</a>
-                  <div class="megamenu megamenu-bg-img">
-                    <div class="megamenu-row">
-
-                      <div class="col3">
-                        <h4 class="megamenu-col-title"><strong>Emails</strong></h4>
-                        <article class="post clearfix">
-                          <div class="entry-header">
-                            <div class="post-thumb"> <img class="img-responsive" src="imagenes/ubi.jpg" alt=""> </div>
-                          </div>
-                          <div class="entry-content">
-                            <p class="">Correos de Contacto y fono de departamentos.</p>
-                            <a class="btn btn-success" href="contacto.php">Ver</a>
-                          </div>
-                        </article>
-                      </div>
-                      <div class="col3">
-                        <h4 class="megamenu-col-title"><strong>Ubicación</strong></h4>
-                        <article class="post clearfix">
-                          <div class="entry-header">
-                            <div class="post-thumb"> <img class="img-responsive" src="imagenes/cont.jpg" alt=""> </div>
-                          </div>
-                          <div class="entry-content">
-                            <!-- <p class="">Dirección de Casa Matriz y Sucursales.</p> -->
-
-                        </article>
-                      </div>
-
-                      <div class="col3">
-                        <h4 class="megamenu-col-title">Direcciones:</h4>
-                        <ul class="list-dashed list-icon">
-                          <li><a href="casa-matriz.php">Casa Matriz Av. La Montaña - Santiago</a></li>
-                          <li><a href="sucursal2.php">Sucursal Coronel - Región del Bío Bío</a></li>
-                          <li><a href="sucursal1.php">Sucursal Av. Egaña - Santiago</a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </li>
+               <li class="<?php echo $current_contact;?>">
+                 <a href="contacto.php">Contacto</a>
+               </li>
 
               </ul>
               <div class="pull-right mb-sm-15">

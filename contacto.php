@@ -17,7 +17,7 @@ for @uebeats by Github
     /* CURRENT MENU */
     $current_home = '';
     $current_about = '';
-    $current_services = '';
+    $current_products = '';
     $current_contact = 'active';
 
     include 'vistas/contacto.view.php';

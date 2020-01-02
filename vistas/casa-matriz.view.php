@@ -47,17 +47,8 @@
             <h3 class="line-bottom mt-0 mb-30">Av.La Montaña 635 , Lote 4-9-10-20 - Santiago.</h3>
             
             <!-- Contact Form -->
-         
-			  
-			  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.0547236229213!2d-70.73129114943482!3d-33.317384780717965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662bf456352b67d%3A0x9a6b19f85ee9ad15!2sAceros%20Y%20Cubiertas%20Nacionales%20Limitada!5e0!3m2!1ses!2scl!4v1574942460810!5m2!1ses!2scl" width="350" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-           
-         
-			</p>
-		</br>
-            
-           
-       
-		 </div>	
+			      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.0547236229213!2d-70.73129114943482!3d-33.317384780717965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662bf456352b67d%3A0x9a6b19f85ee9ad15!2sAceros%20Y%20Cubiertas%20Nacionales%20Limitada!5e0!3m2!1ses!2scl!4v1574942460810!5m2!1ses!2scl" width="350" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+		      </div>	
 			
           <div class="col-md-6">
             <h3 class="line-bottom mt-0">Contáctanos</h3>
