@@ -60,8 +60,7 @@
                           </h2>
                           '. $desc_product .'
 
-                          <div class="widget">
-                          <h3 class="widget-title line-bottom"><img class="mr-10" src="images/flat-color-icons-svg/md1.png" alt="construction">Descarga Documentación</h3>
+                          <div class="widget mt-30">
                             <a href="'. $slug_pdf .'.pdf" target="_blank" class="btn btn-success btn-lg"><i class="fa fa-cloud-download"></i> Descargar Ficha</a>
                           </div>
                       </div>';
@@ -79,8 +78,7 @@
                             </h2>
                             '. $desc_product .'
 
-                            <div class="widget">
-                            <h3 class="widget-title line-bottom"><img class="mr-10" src="images/flat-color-icons-svg/md1.png" alt="construction">Descarga Documentación</h3>
+                            <div class="widget mt-30">
                               <a href="'. $slug_pdf .'.pdf" target="_blank" class="btn btn-success btn-lg"><i class="fa fa-cloud-download"></i> Descargar Ficha</a>
                             </div>
                         </div>';
