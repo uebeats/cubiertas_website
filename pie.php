@@ -25,7 +25,8 @@
                 <?php 
                   require_once 'cb_config/conexion.php';
 
-                  $select = "SELECT * FROM tbl_products_cb ORDER BY id_product_cb DESC LIMIT 3";
+                  $number = '2';
+                  $select = "SELECT * FROM tbl_products_cb WHERE cat_product_cb = '$number' ORDER BY id_product_cb DESC LIMIT 3";
                   $res = $con->query($select);
                   while($r = $res->fetch_assoc()){
 

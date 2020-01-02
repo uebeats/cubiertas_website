@@ -153,6 +153,7 @@
                     </div>
 
                     <div class="row">
+                        <!-- Planta Lampa 1 -->
                         <div class="col-xs-12 col-sm-4 col-md-5">
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
@@ -168,6 +169,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Planta Lampa 2 -->
                         <div class="col-xs-12 col-sm-4 col-md-5">
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
@@ -183,11 +185,12 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Planta Lampa 3 -->
                         <div class="col-xs-12 col-sm-4 col-md-5">
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <img class="img-fullwidth" src="imagenes/suc-lampa3.jpg" alt="project">
                                         <div class="overlay-shade bg-theme-colored-transparent-8"></div>
                                     </div>
                                     <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
@@ -198,11 +201,12 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Planta Coronel -->
                         <div class="col-xs-12 col-sm-4 col-md-5">
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <img class="img-fullwidth" src="imagenes/suc-coronel.jpg" alt="project">
                                         <div class="overlay-shade bg-theme-colored-transparent-8"></div>
                                     </div>
                                     <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
@@ -213,17 +217,18 @@
                                 </div>
                             </div>
                         </div>
+                        <!-- Sucursal Egaña -->
                         <div class="col-xs-12 col-sm-4 col-md-5">
                             <div class="box-hover-effect effect-barlin mb-xs-30">
                                 <div class="effect-wrapper">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="imagenes/placeholder-img.png" alt="project">
+                                        <img class="img-fullwidth" src="imagenes/suc-plazaegana.jpg" alt="project">
                                         <div class="overlay-shade bg-theme-colored-transparent-8"></div>
                                     </div>
                                     <div class="featured-content text-center pt-15 pr-10 pl-10 pb-20 border-1px">
                                         <img src="images/flaticons/2.png">
-                                        <h3>Planta Egaña - Santiago</h3>
-                                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium dolorem quis dignissimos et similique.</p>
+                                        <h3>Avenida Egaña - Santiago</h3>
+                                        <p>Sucursal emplazada en Avenida Egaña, Santiago. Dedicada a distribución de productos.</p>
                                     </div>
                                 </div>
                             </div>

@@ -102,5 +102,9 @@
 .services-list .nav-pills li.active > a{
   background-color:#777;
 }
+ul{
+  list-style: disc;
+  margin: 20px;
+}
 
 </style>
