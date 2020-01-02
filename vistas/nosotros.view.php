@@ -101,7 +101,6 @@
                 </div>
             </section>
 
-
             <!-- Section: Blog -->
             <section>
                 <div class="container mt-30 mb-30 pt-30 pb-30">

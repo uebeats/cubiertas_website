@@ -48,6 +48,20 @@
 <!-- CSS | Theme Color -->
 <link href="css/colors/theme-skin-color-set1.css" rel="stylesheet" type="text/css">
 
+<style>
+.load-email {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url(https://www.mktv.mx/wp-content/uploads/2017/07/letter_sending.gif) 50% 50% no-repeat rgb(253,253,253);
+    opacity: .8;
+}
+</style>
+
+
 <!-- external javascripts -->
 <script src="js/jquery-2.2.4.min.js"></script>
 <script src="js/jquery-ui.min.js"></script>
@@ -58,6 +72,46 @@
 <!-- Revolution Slider 5.x SCRIPTS -->
 <script src="js/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+
+<!-- Sweet Alert -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+<!-- script para envio de form -->
+<script>
+
+var contactForm = function () {
+    $("#contactForm").submit(function(e) {
+        e.preventDefault();
+        var datos = $(this).serialize();
+        console.log(datos);
+            $('.load-email').show();
+        $.ajax({
+            type: "POST",
+            url: "php/sendMail.php",
+            data: datos,
+            success: function (data) {
+                $('.load-email').hide();
+                swal({
+                    title: "Buen Trabajo!",
+                    text: "El mensaje ha sido enviado satisfactoriamente.",
+                    icon: "success",
+                    button: "Ok",
+                });
+                $('#contactForm')[0].reset();
+                },
+            }).fail(function (data){
+                $('.load-email').hide();
+                swal({
+                    title: "Algo salio mal!",
+                    text: "Intentalo nuevamente, no puedes incluir campos vacios, ni caracteres extraños.",
+                    icon: "error",
+                    button: "Cerrar",
+                });
+            })
+
+        });
+}
+</script>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

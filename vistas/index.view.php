@@ -761,6 +761,7 @@
     <?php include 'pie.php';?>
 
     <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+    <div class="load-email" style="display: none;"></div>
   </div>
   <!-- end wrapper -->
 
