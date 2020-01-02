@@ -104,7 +104,7 @@
 
               <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-20" href="#"> <i class="pe-7s-map-2 text-theme-colored"></i></a>
                 <div class="media-body">
-                  <h5 class="mt-0">Casa Matriz</h5>
+                  <h5 class="mt-0">Sucursal</h5>
                   <p> Av. Estero La Posada 3551, Coronel - Región del Bío Bío.</p>
                 </div>
               </div>
@@ -117,7 +117,7 @@
               <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-15" href="#"> <i class="pe-7s-mail text-theme-colored"></i></a>
                 <div class="media-body">
                   <h5 class="mt-0">Email</h5>
-                  <p><a href="mailto:aortiz@cubiertasnacionales.cl">aortiz@cubiertasnacionales.cl</a></p>
+                  <p><a href="mailto:aortiz@cubiertasnacionales.cl">jmartinez@cubiertasnacionales.cl</a></p>
                 </div>
               </div>
               
@@ -156,18 +156,20 @@
                     <div class="media-body">
                       <h5 class="mt-0">Email de Contactos</h5>
                       <p><strong>Carlos Nuñez</strong><br>cnunez@cubiertasnacionales.cl<br>
+                        <strong>Patricia Nuñez</strong><br>pnunez@cubiertasnacionales.cl<br>
                         <strong>Francisco Flores</strong><br>fflores@cubiertasnacionales.cl<br>
                         <strong>Patricia Gálvez</strong><br>pgalvez@cubiertasnacionales.cl<br>
-                        <strong>Marcela Ordenes</strong><br>mordenes@cubiertasnacionales.cl<br>
-                        <strong>Rodrigo Hernández</strong><br>rhernandez@cubiertasnacionales.cl<br>
-                        <strong>Karen Quezada</strong><br>kquezada@cubiertasnacionales.cl<br>
-                        <strong>Miguel Gajardo</strong><br>mgajardo@cubiertasnacionales.cl<br>
-                        <strong>Patricia Nuñez</strong><br>pnunez@cubiertasnacionales.cl<br>
-                        <strong>Johana Martínez</strong><br>jmartinez@cubiertasnacionales.cl<br>
                         <strong>Andrea Ortiz</strong><br>aortiz@cubiertasnacionales.cl<br>
+                        <strong>Marcela Ordenes</strong><br>mordenes@cubiertasnacionales.cl<br>
                         <strong>Freddy Rojas</strong><br>frojas@cubiertasnacionales.cl<br>
+                        <strong>Rodrigo Hernández</strong><br>rhernandez@cubiertasnacionales.cl<br>
+                        <strong>Johana Martínez</strong><br>jmartinez@cubiertasnacionales.cl<br>
+                        <strong>Abraham Troncoso</strong><br>atroncoso@cubiertasnacionales.cl<br>
                         <strong>Carolina Quezada</strong><br>cquezada@cubiertasnacionales.cl<br>
                         <strong>Danilo Escanilla</strong><br>descanilla@cubiertasnacionales.cl<br>
+                        <strong>Miguel Gajardo</strong><br>mgajardo@cubiertasnacionales.cl<br>
+                        <strong>Jorge Chero</strong><br>jchero@cubiertasnacionales.cl<br>
+
                       </p>
                     </div>
                   </div>
@@ -263,20 +265,21 @@
                   <td>mllanos@cubiertasnacionales.cl</td>
                   <td>+569 6168 5275</td>
                 </tr>
+
                 <tr>
                   <td>Quinta región</td>
                   <td><strong>Daniel Reyes</strong></td>
                   <td>dreyes@cubiertasnacionales.cl</td>
                   <td>+569 8228 2014</td>
                 </tr>
+
                 <tr>
                   <td>Zona Central</td>
                   <td><strong>Alicia Consigliere</strong></td>
                   <td>aconsigliere@cubiertasnacionales.cl</td>
                   <td>+569 8228 2938</td>
-
-
                 </tr>
+
                 <tr>
                   <td>Zona Central</td>
                   <td><strong>Mario Hernández</strong></td>
@@ -291,6 +294,19 @@
                   <td>+569 9796 8495</td>
                 </tr>
 
+                <tr>
+                  <td>Zona Central</td>
+                  <td><strong>Johana Pontillo</strong></td>
+                  <td>jpontillo@cubiertasnacionales.cl</td>
+                  <td>+569 7691 4604</td>
+                </tr>
+
+                <tr>
+                  <td>Zona Central</td>
+                  <td><strong>Ruben Cubillos</strong></td>
+                  <td>rcubillos@cubiertasnacionales.cl</td>
+                  <td>+569 9477 6681</td>
+                </tr>
 
                 <tr>
                   <td>Séptima Región</td>
@@ -304,6 +320,13 @@
                   <td><strong>Juan Escobar</strong></td>
                   <td>jescobar@cubiertasnacionales.cl</td>
                   <td>+569 9089 4472</td>
+                </tr>
+
+                <tr>
+                  <td>Octava Región</td>
+                  <td><strong>Victor Salazar</strong></td>
+                  <td>vsalazar@cubiertasnacionales.cl</td>
+                  <td>+569 9249 0703</td>
                 </tr>
 
                 <tr>

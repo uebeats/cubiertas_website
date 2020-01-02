@@ -110,7 +110,8 @@
         <div class="container pt-10 pb-10">
           <div class="row">
             <div class="col-md-12 text-center">
-              <p class="font-13 text-black-777 m-0">&copy; <?php echo date('Y');?> Cubiertas Nacionales - Sitio web optimizado para dispositivos móviles.</p>
+              <p class="font-13 text-black-777 m-0">&copy; <?php echo date('Y');?> Cubiertas Nacionales - Sitio web optimizado para dispositivos móviles. Hecho con <i class="fa fa-heart"></i> </span>por <a href="https://igospel.cl"><img width="80" src="imagenes/logo-igospel.png"></a></p>
+              
             </div>
           </div>
         </div>
