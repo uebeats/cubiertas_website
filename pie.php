@@ -117,3 +117,5 @@
         </div>
       </div>
     </footer>
+    <!-- Código de instalación Cliengo para http://www.cubiertasnacionales.cl/ --> 
+    <script type="text/javascript">(function () { var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; ldk.src = 'https://s.cliengo.com/weboptimizer/5e0f3e70e4b0fc9558213d1a/5e0f3e71e4b0fc9558213d1d.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s); })();</script>
