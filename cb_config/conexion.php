@@ -1,8 +1,8 @@
 <?php
 	/*-------------------------
     Autor: Jesús Caballero P.
-    Web: www.ptd.cl
-    Correo: jcaballero@ptd.cl
+    Web: www.igospel.cl
+    Correo: uebeats@gmail.com
     ---------------------------*/
     /*Datos de conexion a la base de datos*/
     // define('DB_HOST', 'localhost');//DB_HOST:  generalmente suele ser "127.0.0.1"
@@ -11,8 +11,10 @@
     // define('DB_NAME', 'cubiertas_dbweb');//Nombre de la base de datos
 
     define('DB_HOST', 'localhost');//DB_HOST:  generalmente suele ser "127.0.0.1"
-    define('DB_USER', 'wp_usrweb');//Usuario de tu base de datos
-    define('DB_PASS', 'hmm67p.)MDcFp2G');//ContraseÃ±a del usuario de la base de datos
+    // define('DB_USER', 'wp_usrweb');//Usuario de tu base de datos
+    // define('DB_PASS', 'hmm67p.)MDcFp2G');//ContraseÃ±a del usuario de la base de datos
+    define('DB_USER', 'cubiertas_dbuser');//Usuario de tu base de datos
+    define('DB_PASS', 'igospel2019');//Contraseña del usuario de la base de datos
     define('DB_NAME', 'cubiertas_dbweb');//Nombre de la base de datos
     
 	# conectare la base de datos
