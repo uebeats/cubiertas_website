@@ -39,6 +39,7 @@
             <li class="<?php active('ficha-producto.php?id_product=26&category=3');?> bg-home"><a href="ficha-producto.php?id_product=26&category=3"><i class="fa fa-home"></i> Panel Cn Tinglado</a></li>
             <li class="<?php active('ficha-producto.php?id_product=27&category=3');?> bg-home"><a href="ficha-producto.php?id_product=27&category=3"><i class="fa fa-home"></i> Panel Cn-5v</a></li>
             <li class="<?php active('ficha-producto.php?id_product=28&category=3');?> bg-home"><a href="ficha-producto.php?id_product=28&category=3"><i class="fa fa-home"></i> Panel Ondulado Cn-3/4</a></li>
+            <li class="<?php active('ficha-producto.php?id_product=29&category=3');?> bg-home"><a href="ficha-producto.php?id_product=29&category=3"><i class="fa fa-home"></i> Panel CN Techo</a></li>
         </ul>
     </div>
 </div>
